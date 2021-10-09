@@ -29,4 +29,16 @@
 <br> 
 
 <div align="center">
+
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{Tashy009}/count.svg)
+        
+</div>
+
+<div align="center">
+  
+<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+</div>
+
         
