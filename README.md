@@ -1,10 +1,10 @@
  ### Hi there 👋, I am SHITTU TAOFEEK
 ## Call me Tashy
 
-- 🌱 I’m currently intO backend development with Nodejs
+- 🌱 I’m currently into backend development with Nodejs
 - 👯 I’m looking to collaborate on any nodejs open source project
 - 🤔 I’m looking for Internship and entry level role
-- 💬 Ask me to work with you (I am availble to write and code)
+- 💬 Ask me to work with you 
 - 📫 How to reach me: [Email me](mailto:shittutaofeek009@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
