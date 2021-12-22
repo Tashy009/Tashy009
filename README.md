@@ -7,7 +7,7 @@
 - 💬 Ask me to work with you 
 - 📫 How to reach me: [Email me](mailto:shittutaofeek009@gmail.com)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: 
+
 <div align="center">
   
   ## Github Stats
